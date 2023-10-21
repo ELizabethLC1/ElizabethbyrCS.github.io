@@ -18,6 +18,10 @@ h1.homepage_heading {
         opacity: 1;
     }
 }
+img.img_gif{ height: 600px;
+             width: 500px;
+             object-position:center;
+             object-fit: contain }
 .footer {
     position: fixed;
     left: 0;
